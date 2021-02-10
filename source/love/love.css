@@ -26,8 +26,9 @@
   font-size: 1rem;
 }
 .love-times{
-  color: #f00;
+  color: gray;
   font-size: 1.5rem;
+  text-decoration: line-through;
 }
 
 .tomato{

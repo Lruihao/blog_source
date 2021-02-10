@@ -29,12 +29,14 @@ comments: false
 	.heart {
 		position: absolute;
 		z-index: 2;
-		background: linear-gradient(-90deg, #F50A45 0%, #d5093c 40%);
-		animation: beat 1s ease 0s infinite normal;
+		/*background: linear-gradient(-90deg, #F50A45 0%, #d5093c 40%);*/
+		background: linear-gradient(-90deg, #6b6b6b 0%, grey 40%);
+		animation: beat 3.5s ease 0s infinite normal;/*1s*/
 	}
 
 	.heart.center {
-		background: linear-gradient(-45deg, #B80734 0%, #d5093c 40%);
+		/*background: linear-gradient(-45deg, #B80734 0%, #d5093c 40%);*/
+		background: linear-gradient(-45deg, grey 0%, grey 40%);
 	}
 
 	.heart.top {
@@ -69,16 +71,16 @@ comments: false
 	@keyframes beat {
 		0% {
 			transform: scale(1) rotate(225deg);
-			box-shadow:0 0 20px #d5093c;
+			box-shadow:0 0 20px grey;/*#d5093c*/
 		}
 
 		50% {
 			transform: scale(1.1) rotate(225deg);
-			box-shadow:0 0 50px #d5093c;
+			box-shadow:0 0 50px grey;/*#d5093c*/
 		}
 		100% {
 			transform: scale(1) rotate(225deg);
-		box-shadow:0 0 20px #d5093c;
+		box-shadow:0 0 20px grey;/*#d5093c*/
 		}
 	}
 </style>

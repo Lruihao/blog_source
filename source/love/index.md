@@ -2,7 +2,7 @@
 title: 恋爱叙事体
 comments: true
 password: 161117
-message: 💕在一起的第一天！
+message: 💕相爱那天
 description: 大一那年，李瑞豪和<ruby>张湘敏<rp>（</rp><rt><span id="busuanzi_container_page_pv" title="回忆次数"><i class="fa fa-heartbeat"></i> <span id="busuanzi_value_page_pv"></span></span></rt><rp>）</rp></ruby>在避风塘第一次相遇。
 ---
 <meta http-equiv="refresh" content="5201314;url=/">
@@ -93,6 +93,8 @@ player.lruihao.cn ： 20161117 20161117
 ---
 <div class="loveTyping">2019年11月17日 三周年
 承蒙时光不弃，1095天，你一直在，我一直爱，三周年快乐。
+2020年5月28日
+你离开了，我爱的人不爱我了。
 </div>
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=52 src="//music.163.com/outchain/player?type=2&id=563282238&auto=1&height=32" style="display: none;"></iframe>-->
 <script type="text/javascript" src="/js/love/love-typing.js"></script>

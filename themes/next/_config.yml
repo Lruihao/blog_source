@@ -154,7 +154,7 @@ menu:
       default: /other/ || fa-fw fa-cogs
       年度总结: ../../posts/years.html || fa-fw fa-bar-chart
       收藏夹: ../../posts/links.html || globe
-      love: ../../love/ || heart
+      # love: ../../love/ || heart
   album: https://img.lruihao.cn || image
   #rui-site: https://www.lruihao.cn || paper-plane
   #music: https://player.lruihao.cn || music
@@ -211,7 +211,7 @@ social:
   微博: https://weibo.com/liahao || weibo
   #微信: /images/wechat.png || wechat
   QQ: /images/qq.jpg || qq
-  E-Mail: mailto:1074627678@qq.com || envelope
+  E-Mail: mailto:1024@lruihao.cn || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook

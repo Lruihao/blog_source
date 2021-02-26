@@ -6,16 +6,16 @@
   avatar: https://recell.github.io/images/123.jpg
   site: https://recell.github.io
   info: 蒙镛、老铁,一句两句说不清！
-- nickname: 鲸落oh
-  avatar: https://hexiongbiao.cn/images/avatar.jpg
-  site: https://hexiongbiao.cn
+- nickname: DoubleAm
+  avatar: https://a.biugle.cn/images/avatar.jpg
+  site: https://a.biugle.cn/
   info: 又一个被我带入坑的小伙子！
 - nickname: francs
   avatar: https://postgres.fun/images/francs.png
   site: https://postgres.fun
   info: PostgreSQL中文网。数据库。francs.top
 - nickname: 赵俊
-  avatar:
+  avatar: http://www.zhaojun.im/images/avatar.gif
   site: http://www.zhaojun.im
   info: 一个Java学习者的博客，分享Java干货，VPS知识，软件推荐等。&#10;valine-admin👍
 - nickname: hojun
@@ -39,7 +39,7 @@
   site: https://blog.mythsman.com
   info: hexo-douban插件开发者，坐标上海拼多多&#10;博客看起来是个很有生活感与学习感的地方。
 - nickname: 孤舟leng
-  avatar: https://blleng.cn/images/avatar.jpg
+  avatar: 
   site: https://blleng.cn
   info: 记录一些有趣的技术，分享算法和一些想法。
 - nickname: 在线分享网
@@ -50,16 +50,16 @@
   avatar: #https://wizzie.top/avatar/smile.jpg
   site: https://wizzie.top
   info: “Brave, Confident, Come on!”
-- nickname: 莫子谦
-  avatar: https://www.xiaomujin.club/images/author.png
-  site: https://www.xiaomujin.club
-  info: 记录生活，记录故事&#10;--身体和灵魂，总要有一个在路上。
+# - nickname: 莫子谦
+#   avatar: https://www.xiaomujin.club/images/author.png
+#   site: https://www.xiaomujin.club
+#   info: 记录生活，记录故事&#10;--身体和灵魂，总要有一个在路上。
 - nickname: 星空无限
   avatar: https://liyangzone.com/medias/avatar.jpg
   site: https://liyangzone.com
   info: 前端开发，骑行爱好者，分享技术、分享生活。&#10;Front-End Developer
 - nickname: 北宸
-  avatar: #https://www.liaofuzhan.com/images/beichen.png
+  avatar: https://cdn.jsdelivr.net/gh/leafjame/cdn/img/logo/beichen.png
   site: https://www.liaofuzhan.com
   info: “Java狮 北漂男 摄影 旅行 赚钱”
 - nickname: 小丁

@@ -17,4 +17,6 @@ function LinkCard(){
 		}
 	}
 }
-LinkCard();
+$().ready(() => {
+  LinkCard();
+});

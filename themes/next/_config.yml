@@ -381,7 +381,7 @@ wechat_subscriber:
   description: 公众号订阅
 
 # Reward
-reward_comment: 欢迎关注公众号，感谢支持 ！
+reward_comment: 右下角关注一下公众号吧！
 wechatpay: /images/wechatpay.gif
 alipay: /images/alipay.gif
 #bitcoin: /images/bitcoin.png

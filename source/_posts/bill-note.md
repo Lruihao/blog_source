@@ -5,6 +5,7 @@ tags:
 - Frontend
 - JavaScript
 - leancloud
+- VueJS
 categories:
 - Frontend
 - JavaScript

@@ -3,7 +3,7 @@ title: 恋爱叙事体
 comments: true
 password: 161117
 message: 💕相爱那天
-description: 大一那年，李瑞豪和<ruby>张湘敏<rp>（</rp><rt><span id="busuanzi_container_page_pv" title="回忆次数"><i class="fa fa-heartbeat"></i> <span id="busuanzi_value_page_pv"></span></span></rt><rp>）</rp></ruby>在避风塘第一次相遇。
+description: 大一那年，李瑞豪和<ruby>张湘敏<rp>（</rp><rt><span id="busuanzi_container_page_pv" title="回忆次数"><i class="fa fa-heartbeat"></i> <span id="busuanzi_value_page_pv"></span></span></rt><rp>）</rp></ruby>在避风塘第一次相遇。<script type="text/javascript">document.querySelector('html').style.filter = 'grayscale(100%)';</script>
 ---
 <meta http-equiv="refresh" content="5201314;url=/">
 <link rel="stylesheet" type="text/css" href="love.css">
@@ -88,11 +88,13 @@ player.lruihao.cn ： 20161117 20161117
 又想起了上次和你在凤凰的逛街，过去的一切都让我满意和回味无穷，我相信未来定是如此，岁月静好，爱你如初。（土味情话说来就来！）
 6号晚上我一个人踏上了返程的火车，没叫任何人送我包括你，离别总是不舍的，这次特别特别的强烈。气氛不要太伤感，我们大家都在成长的路上，我们一直都在对方的心里。考研加油！
 晚安。
+
+2019年11月17日 三周年
+承蒙时光不弃，1095天，你一直在，我一直爱，三周年快乐。
 </div></details>
 
 ---
-<div class="loveTyping">2019年11月17日 三周年
-承蒙时光不弃，1095天，你一直在，我一直爱，三周年快乐。
+<div class="loveTyping">
 2020年5月28日
 你离开了，我爱的人不爱我了。
 </div>
@@ -100,6 +102,5 @@ player.lruihao.cn ： 20161117 20161117
 <script type="text/javascript" src="/js/love/love-typing.js"></script>
 <script async type="text/javascript" src="/js/love/love-time.js"></script>
 <script async type="text/javascript" src="/js/love/love-word.js"></script>
-<!-- <script async id="ilt" src="https://player.lruihao.cn/player/js/player.js" key="155b80a8f94e4c62bad4eba38f8a6369"></script> -->
 <script type="text/javascript" src="/js/love/snowfall.jquery.js"></script>
 <script type="text/javascript" src="/js/love/sakura.js"></script>

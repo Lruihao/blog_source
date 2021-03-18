@@ -47,20 +47,22 @@ cos桶相册，终于！！终于来了！！，思路参考自[给hexo静态博
 <script type="text/javascript">
   new Cosalbum({
     'xmlLink': 'https://img-xxxxxxxxxx.cos.ap-chengdu.myqcloud.com',
-    'prependTo': '',
-    'viewNum': 4,
+    'prependTo': '.cos-album',
+    'viewNum': 8,
     'imgUrl': '//img.lruihao.cn'
   });
 </script>
 ```
 
 ## Params
-| param     | type   | description                        |
-| :-------- | :----- | :--------------------------------- |
-| xmlLink   | String | 需要解析的騰訊云COS桶XML鏈接         |
-| prependTo | String | 可選解析相冊到某個節點,默認: 'body'   |
-| viewNum   | Number | 每個相冊顯示的照片數目,默認: 4        |
-| imgUrl    | String | 图片CDN链接,雙擊複製URL Since: 1.1.2 |
+| param     | type   | default | description                       |
+| :-------- | :----- | :------ | :-------------------------------- |
+| xmlLink   | String |         | 需要解析的騰訊云COS桶XML鏈接        |
+| prependTo | String | 'body'  | 可選解析相冊到某個節點              |
+| viewNum   | Number |   4     | 每個相冊顯示的照片數目              |
+| copyUrl   | String |  href   | CDN 链接,雙擊複製 URL Since: 1.1.6 |
+| imgType   | String | ['jpg', 'jpeg', 'png', 'gif', 'svg'] | 图片類型 Since: 1.1.6 |
+| videoType | String | ['mp4', 'mp3', 'avi', 'mov', 'qt']   | 視頻類型 Since: 1.1.6 |
 
 `viewport`视个人爱好添加。
 hexo中使用时css和js都需要做适当调整，配合加密功能使用等等，这里不再展开。
@@ -79,8 +81,9 @@ hexo中使用时css和js都需要做适当调整，配合加密功能使用等�
     <script type="text/javascript">
       new Cosalbum({
         'xmlLink': 'https://img-xxxxxxxxxx.cos.ap-chengdu.myqcloud.com',
-        'prependTo': '',
-        'viewNum': 8
+        'prependTo': '.cos-album',
+        'viewNum': 8,
+        'copyUrl': '//img.lruihao.cn'
       });
     </script>
     <!-- 你的其他内容，如评论等 -->
@@ -93,11 +96,11 @@ hexo中使用时css和js都需要做适当调整，配合加密功能使用等�
 
 # changelog
 
-- 2019-11-24 10:52:34
-修改整理了一下代码，分割功能为函数，并写了注释，更加方便[伸手党](https://github.com/Lruihao/cos-album)!
 - 2020-9-28 22:46
   1. 升級：相冊封裝成類，可以更方便new出來
   2. 優化：相冊圖片樣式優化
+- 2019-11-24 10:52:34
+修改整理了一下代码，分割功能为函数，并写了注释，更加方便[伸手党](https://github.com/Lruihao/cos-album)!
 
 # 未实现
 - fancybox

@@ -10,7 +10,6 @@ tags:
 categories:
 - Fullstack
 delicate: true
-top: 10
 ---
 
 # 精神

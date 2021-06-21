@@ -1,15 +1,4 @@
-let userAgentInfo = navigator.userAgent;
-let Agents = ["Android", "iPhone",
-            "SymbianOS", "Windows Phone",
-            "iPad", "iPod"];
-let flag = true;
-for (let v = 0; v < Agents.length; v++) {
-    if (userAgentInfo.indexOf(Agents[v]) > 0) {
-        flag = false;
-        break;
-    }
-}
-if(flag){
+if(!navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)){
   let qrBox = document.createElement("div");
   let qrImg = document.createElement("img");
   let span = document.createElement("span");
